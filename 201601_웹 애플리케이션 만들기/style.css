@@ -1,0 +1,11 @@
+body.white{
+  background-color:white;
+  color:black;
+}
+body.black{
+  background-color:black;
+  color:white;
+}
+#logo {
+  width:100px;
+}
