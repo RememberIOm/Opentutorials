@@ -1,0 +1,5 @@
+**/bin/
+
+*.map
+*.classpath
+*.project
